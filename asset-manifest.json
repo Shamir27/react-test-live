@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fd2ee94.css",
+    "main.js": "/static/js/main.da6ce13e.js",
+    "static/media/home.png": "/static/media/home.b98cc8a4b64ac121dbc0.png",
+    "static/media/featured.png": "/static/media/featured.f224bcd0df746e7d306c.png",
+    "static/media/4.png": "/static/media/4.df35a29419db67db04f2.png",
+    "static/media/3.png": "/static/media/3.f4f3f95244b98b162a4e.png",
+    "static/media/2.png": "/static/media/2.dabd0593b9895ca54a52.png",
+    "static/media/1.png": "/static/media/1.ae2a8925d48b94357433.png",
+    "static/media/PowerGrotesk-Regular.ttf": "/static/media/PowerGrotesk-Regular.b052d3329dc6f87ae610.ttf",
+    "static/media/Articulat_CF_Heavy.otf": "/static/media/Articulat_CF_Heavy.d58fc8724beeb97aec6c.otf",
+    "static/media/Articulat_CF_Extra_Bold.otf": "/static/media/Articulat_CF_Extra_Bold.e615125b33551db66549.otf",
+    "static/media/Articulat_CF_Bold.otf": "/static/media/Articulat_CF_Bold.93a8fd960ebd1f8a34fc.otf",
+    "static/media/Articulat_CF_Normal.otf": "/static/media/Articulat_CF_Normal.6da55ac404b39d275186.otf",
+    "static/media/Articulat_CF_Light.otf": "/static/media/Articulat_CF_Light.79754df9f29823981a81.otf",
+    "static/media/Articulat_CF_Medium.otf": "/static/media/Articulat_CF_Medium.de6ce0674a80f2bc2e46.otf",
+    "static/media/Articulat_CF_Regular.otf": "/static/media/Articulat_CF_Regular.6d2212da4d006d124c6d.otf",
+    "static/media/Articulat_CF_Extra_Light.otf": "/static/media/Articulat_CF_Extra_Light.17358f38447f549f2990.otf",
+    "static/media/Articulat_CF_Thin.otf": "/static/media/Articulat_CF_Thin.4608085a6d610cfe76a4.otf",
+    "static/media/logo.svg": "/static/media/logo.d65af781314c8c12bd4eabc566fdcf23.svg",
+    "static/media/eye.svg": "/static/media/eye.cdf93c266d241190de73d34496bc1158.svg",
+    "index.html": "/index.html",
+    "main.3fd2ee94.css.map": "/static/css/main.3fd2ee94.css.map",
+    "main.da6ce13e.js.map": "/static/js/main.da6ce13e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd2ee94.css",
+    "static/js/main.da6ce13e.js"
+  ]
+}
